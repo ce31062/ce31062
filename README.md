@@ -1,6 +1,6 @@
 <h3>Hi there:wave:, I'm Naoya</h3>
 
-- 🔭 I’m currently working on [Nand2tetris](https://github.com/ce31062/Nand2tetris)
+- 🔭 I’m currently working on [Nand2tetris](https://github.com/ce31062/Nand2tetris),  [FPGA programming](https://github.com/ce31062/Arty_S7-50_programming-book)
 
 - 🌱 I’m currently learning **Computer Science, Deep learning, FPGA etc.**
 
