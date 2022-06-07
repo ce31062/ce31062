@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on [Nand2tetris](https://github.com/ce31062/Nand2tetris),  [FPGA programming](https://github.com/ce31062/Arty_S7-50_programming-book)
 
-- 🌱 I’m currently learning **Computer architecture, FPGA, Analog circuit design, Deep learning etc.**
+- 🌱 I’m currently learning **Computer architecture, FPGA, Analog circuit design, OS etc.**
 
 - 📝 I regularly write articles on [https://subarukun.hatenablog.com/](https://subarukun.hatenablog.com/)
 
