@@ -1,10 +1,10 @@
 <h3>Hi there:wave:, I'm Naoya</h3>
 
-- 🔭 I’m currently working on [Nand2tetris](https://github.com/ce31062/Nand2tetris),  [FPGA programming](https://github.com/ce31062/Arty_S7-50_programming-book), [Create my own OS](https://github.com/ce31062/os_from_zero)
+- 🔭 現在の主な取り組み [Nand2tetris](https://github.com/ce31062/Nand2tetris),  [FPGAプログラミング](https://github.com/ce31062/Arty_S7-50_programming-book), [自作OS](https://github.com/ce31062/os_from_zero)
 
-- 🌱 I’m currently learning **Computer architecture, FPGA, Analog circuit design, OS etc.**
+- 🌱 興味のある分野・キーワード コンピュータアーキテクチャ, Risc-V, FPGA, OS, etc
 
-- 📝 I regularly write articles on [https://subarukun.hatenablog.com/](https://subarukun.hatenablog.com/)
+- 📝 不定期ブログ [https://subarukun.hatenablog.com/](https://subarukun.hatenablog.com/)
 
 
 <p align="left">
