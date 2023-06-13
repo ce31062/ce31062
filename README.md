@@ -1,6 +1,6 @@
 <h3>Hi there:wave:, I'm Naoya</h3>
 
-- 🔭 現在の取り組み:[FPGA]([https://github.com/ce31062/Arty_S7-50_programming-book](https://github.com/ce31062/Getting_start_with_VerilogHDL)), [自作OS](https://github.com/ce31062/os_from_zero)
+- 🔭 現在の取り組み:[FPGA](https://github.com/ce31062/Getting_start_with_VerilogHDL), [自作OS](https://github.com/ce31062/os_from_zero)
 
 - 🌱 関心テーマ:  自作CPU(オリジナル, RISC-V), 低レイヤ全般, FPGA, OS, 画像処理, 機械学習etc
 
