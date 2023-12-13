@@ -4,8 +4,6 @@
 
 - 🌱 関心テーマ:  自作CPU(オリジナル, RISC-V), 低レイヤ全般, FPGA, OS, 画像処理, 機械学習etc
 
-- 📝 不定期ブログ [https://subarukun.hatenablog.com/](https://subarukun.hatenablog.com/)
-
 
 <p align="left">
 </p>
