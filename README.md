@@ -1,4 +1,4 @@
-<h3>Hi there:wave:, I'm Naoya</h3>
+<h3>Hi there, I'm Naoya</h3>
 
 - 🔭 現在の取り組み:[FPGA](https://github.com/ce31062/Getting_start_with_VerilogHDL)
 
