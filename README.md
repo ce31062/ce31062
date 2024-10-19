@@ -1,6 +1,6 @@
 <h3>Hi there, I'm Naoya</h3>
 
-- 🔭 現在の取り組み:[FPGA](https://github.com/ce31062/Getting_start_with_VerilogHDL)
+- 🔭 現在の取り組み:[AIエッジ開発](https://github.com/ce31062/pt_yolox-nano_coco_416_416_1G_3.0)
 
 - 🌱 関心テーマ:  自作CPU(オリジナル, RISC-V), 低レイヤ全般, FPGA, OS, 画像処理, 機械学習etc
 
